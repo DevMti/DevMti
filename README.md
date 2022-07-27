@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevMti
 - I’m interested in hard language
-- I’m currently learning java and node.js
+- I’m currently learning javaScript and ReactJS
 - How to reach me:
 - t.me/DevMti
 - instagram.com/Dev.Mti
